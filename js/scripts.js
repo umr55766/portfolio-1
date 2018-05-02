@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+AOS.init();
 //animates skyline and laptop in IE
 var p = document.querySelector('.path'), 
 offset = 2000;
